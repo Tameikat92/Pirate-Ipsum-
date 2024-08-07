@@ -1,11 +1,8 @@
 /*Imported embedded code for body-->*/
-
-
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
 
 
 /*Imported embedded code for header-->*/
-
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&family=Seaweed+Script&display=swap');
 
 
@@ -27,10 +24,19 @@
 
 
 #img1{
+    
     float: left;
     margin: 20px;
     border-radius: 5px ;
     transform: rotateZ(-5deg);
+}
+
+/*img border properties*/
+
+.img {
+    background-color: #ccc;
+    border: #ddd;
+    box-shadow: #999;
 }
 
 
