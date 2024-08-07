@@ -10,6 +10,7 @@
     font-family: "Seaweed Script", cursive;
     font-weight: 400;
     font-style: normal;
+    
   }
 
   .nanum {
@@ -28,10 +29,10 @@
 }
 
 /*img border properties*/
-.img {
-    background-color: #ccc;
+.caption {
     border: #ddd;
     box-shadow: #999;
+    border-radius: 5px;
 }
 
 
@@ -48,4 +49,6 @@
     padding: 20px;
     background-color: #fff; /* White background for the wrapper */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: #999;
+   
 }
