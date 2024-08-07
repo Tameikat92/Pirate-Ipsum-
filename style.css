@@ -1,3 +1,31 @@
+/*Imported embedded code for body-->*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+
+
+/*Imported embedded code for header-->*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&family=Seaweed+Script&display=swap');
+
+
+.seaweed {
+    font-family: "Seaweed Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .nanum {
+    font-family: "Nanum Brush Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+
+
+
+
 #img1{
     float: left;
     margin: 20px;
