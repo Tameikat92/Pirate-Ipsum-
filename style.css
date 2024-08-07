@@ -17,10 +17,6 @@
     font-weight: 400;
     font-style: normal;
   }
-  
-  
-
-
 
 
 #img1{
@@ -32,7 +28,6 @@
 }
 
 /*img border properties*/
-
 .img {
     background-color: #ccc;
     border: #ddd;
@@ -45,4 +40,12 @@
     margin: 20px;
     border-radius: 5px ;
     transform: rotateZ(5deg);
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background for the wrapper */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
