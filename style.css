@@ -43,6 +43,10 @@
     border-radius: 5px;
 }
 
+.img {
+    margin: 20px 0;
+}
+
 .wrapper {
     max-width: 800px;
     margin: 0 auto;
@@ -52,3 +56,4 @@
     border: #999;
    
 }
+
