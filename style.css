@@ -28,19 +28,19 @@
     transform: rotateZ(-5deg);
 }
 
-/*img border properties*/
-.caption {
-    border: #ddd;
-    box-shadow: #999;
-    border-radius: 5px;
-}
-
 
 #img2{
     float: right;
     margin: 20px;
     border-radius: 5px ;
     transform: rotateZ(5deg);
+}
+
+/*img border properties*/
+.img  {
+    border: #ddd;
+    box-shadow: #999;
+    border-radius: 5px;
 }
 
 .wrapper {
